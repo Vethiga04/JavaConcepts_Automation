@@ -1,0 +1,4 @@
+2021-01-31 00:13:00,484 INFO  [XMLConfiguratorExample] It's info 
+2021-01-31 00:13:00,485 ERROR [XMLConfiguratorExample] It's error 
+2021-01-31 00:13:00,485 FATAL [XMLConfiguratorExample] It's fatal 
+2021-01-31 00:13:00,485 WARN  [XMLConfiguratorExample] It's warn 

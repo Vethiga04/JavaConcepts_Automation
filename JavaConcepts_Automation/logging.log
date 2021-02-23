@@ -1,0 +1,4 @@
+2021-01-31 00:01:45 INFO  PropertyConfiguratorExample:16 - It's info
+2021-01-31 00:01:45 ERROR PropertyConfiguratorExample:17 - It's error
+2021-01-31 00:01:45 FATAL PropertyConfiguratorExample:18 - It's fatal
+2021-01-31 00:01:45 WARN  PropertyConfiguratorExample:19 - It's warn

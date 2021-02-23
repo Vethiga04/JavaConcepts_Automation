@@ -10,7 +10,7 @@ public class UsingBufferedFileRead {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		String location="C:\\Users\\TheShy\\Documents\\QA-MyDoctor\\Automaion\\EclipseProjects\\JavaConcepts_Automation\\UsingBufferedFile.txt";
+		String location="C:\\Users\\TheShy\\Documents\\Learning_V\\Automation\\EclipseProjects\\JavaConcepts_Automation\\UsingBufferedFile.txt";
 		
 		FileReader fileReader=new FileReader(location);
 		BufferedReader bufferedReader=new BufferedReader(fileReader);

@@ -10,7 +10,7 @@ public class UsingPath {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		String location="C:\\Users\\TheShy\\Documents\\QA-MyDoctor\\Automaion\\EclipseProjects\\JavaConcepts_Automation\\UsingPath.txt";
+		String location="C:\\Users\\TheShy\\Documents\\Learning_V\\Automation\\EclipseProjects\\JavaConcepts_Automation\\UsingPath.txt";
 		String content="It's related to file writing using Path";
 		
 		Path path=Paths.get(location);
